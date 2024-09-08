@@ -1,0 +1,24 @@
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/bin/Debug/net8.0/ServerLibrary.GoulashAPI.deps.json
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/bin/Debug/net8.0/ServerLibrary.GoulashAPI.dll
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/bin/Debug/net8.0/ServerLibrary.GoulashAPI.pdb
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/obj/Debug/net8.0/ServerLibrary.GoulashAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/obj/Debug/net8.0/ServerLibrary.GoulashAPI.AssemblyInfoInputs.cache
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/obj/Debug/net8.0/ServerLibrary.GoulashAPI.AssemblyInfo.cs
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/obj/Debug/net8.0/ServerLibrary.GoulashAPI.csproj.CoreCompileInputs.cache
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/obj/Debug/net8.0/ServerLibrary.GoulashAPI.dll
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/obj/Debug/net8.0/refint/ServerLibrary.GoulashAPI.dll
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/obj/Debug/net8.0/ServerLibrary.GoulashAPI.pdb
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/obj/Debug/net8.0/ref/ServerLibrary.GoulashAPI.dll
+/Users/milesbrosz/Desktop/GoulashAPI/ServerLibrary.GoulashAPI/obj/Debug/net8.0/ServerLibrary.GoulashAPI.csproj.AssemblyReference.cache
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\bin\Debug\net8.0\ServerLibrary.GoulashAPI.deps.json
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\bin\Debug\net8.0\ServerLibrary.GoulashAPI.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\bin\Debug\net8.0\ServerLibrary.GoulashAPI.pdb
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\obj\Debug\net8.0\ServerLibrary.GoulashAPI.csproj.AssemblyReference.cache
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\obj\Debug\net8.0\ServerLibrary.GoulashAPI.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\obj\Debug\net8.0\ServerLibrary.GoulashAPI.AssemblyInfoInputs.cache
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\obj\Debug\net8.0\ServerLibrary.GoulashAPI.AssemblyInfo.cs
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\obj\Debug\net8.0\ServerLibrary.GoulashAPI.csproj.CoreCompileInputs.cache
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\obj\Debug\net8.0\ServerLibrary.GoulashAPI.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\obj\Debug\net8.0\refint\ServerLibrary.GoulashAPI.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\obj\Debug\net8.0\ServerLibrary.GoulashAPI.pdb
+Q:\Desktop\Final Submission copy\GoulashAPI\ServerLibrary.GoulashAPI\obj\Debug\net8.0\ref\ServerLibrary.GoulashAPI.dll

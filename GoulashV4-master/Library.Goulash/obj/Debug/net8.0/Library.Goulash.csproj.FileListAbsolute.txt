@@ -1,0 +1,26 @@
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/bin/Debug/net8.0/Library.Goulash.deps.json
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/bin/Debug/net8.0/Library.Goulash.dll
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/bin/Debug/net8.0/Library.Goulash.pdb
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/obj/Debug/net8.0/Library.Goulash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/obj/Debug/net8.0/Library.Goulash.AssemblyInfoInputs.cache
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/obj/Debug/net8.0/Library.Goulash.AssemblyInfo.cs
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/obj/Debug/net8.0/Library.Goulash.csproj.CoreCompileInputs.cache
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/obj/Debug/net8.0/Library.Goulash.dll
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/obj/Debug/net8.0/refint/Library.Goulash.dll
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/obj/Debug/net8.0/Library.Goulash.pdb
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/obj/Debug/net8.0/ref/Library.Goulash.dll
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/obj/Debug/net8.0/Library.Goulash.sourcelink.json
+/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/obj/Debug/net8.0/Library.Goulash.csproj.AssemblyReference.cache
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\bin\Debug\net8.0\Library.Goulash.deps.json
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\bin\Debug\net8.0\Library.Goulash.dll
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\bin\Debug\net8.0\Library.Goulash.pdb
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\obj\Debug\net8.0\Library.Goulash.csproj.AssemblyReference.cache
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\obj\Debug\net8.0\Library.Goulash.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\obj\Debug\net8.0\Library.Goulash.AssemblyInfoInputs.cache
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\obj\Debug\net8.0\Library.Goulash.AssemblyInfo.cs
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\obj\Debug\net8.0\Library.Goulash.csproj.CoreCompileInputs.cache
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\obj\Debug\net8.0\Library.Goulash.sourcelink.json
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\obj\Debug\net8.0\Library.Goulash.dll
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\obj\Debug\net8.0\refint\Library.Goulash.dll
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\obj\Debug\net8.0\Library.Goulash.pdb
+Q:\Desktop\Final Submission copy\GoulashV4-master\Library.Goulash\obj\Debug\net8.0\ref\Library.Goulash.dll

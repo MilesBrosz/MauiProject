@@ -1,0 +1,72 @@
+﻿<Properties StartupConfiguration="{FE9373EA-6439-4067-91C7-A33295B8FDF7}|Default" GitUserInfo="UsingGIT">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Maui.Goulash PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library.Goulash/Services/StudentService.cs">
+    <Files>
+      <File FileName="Maui.Goulash/ViewModels/CourseDetailViewModel.cs" Line="94" Column="55" IsPinned="True" />
+      <File FileName="Library.Goulash/Services/CourseService.cs" Line="42" Column="10" IsPinned="True" />
+      <File FileName="Maui.Goulash/ViewModels/InstructorViewViewModel.cs" Line="31" Column="58" />
+      <File FileName="Library.Goulash/Utilities/WebRequestHandler.cs" />
+      <File FileName="Library.Goulash/Services/StudentService.cs" Line="23" Column="16" />
+      <File FileName="Maui.Goulash/Views/CourseDetailView.xaml" />
+      <File FileName="Maui.Goulash/Views/CourseDetailView.xaml.cs" Line="17" Column="24" />
+      <File FileName="Maui.Goulash/Platforms/MacCatalyst/Program.cs" />
+      <File FileName="Maui.Goulash/ViewModels/StudentCourseDetailViewModel.cs" Line="124" Column="1" />
+      <File FileName="Maui.Goulash/ViewModels/StudentCourseViewViewModel.cs" />
+      <File FileName="Maui.Goulash/ViewModels/StudentViewViewModel.cs" />
+      <File FileName="Maui.Goulash/Views/PersonDetailView.xaml" />
+      <File FileName="Maui.Goulash/Views/StudentCourseDetailView.xaml" Line="89" Column="28" />
+      <File FileName="Maui.Goulash/Views/StudentCourseView.xaml" />
+      <File FileName="Maui.Goulash/AppShell.xaml" />
+      <File FileName="Maui.Goulash/Views/AssignmentSubmissionView.xaml.cs" />
+      <File FileName="Maui.Goulash/ViewModels/AssignmentSubmissionViewModel.cs" />
+      <File FileName="Maui.Goulash/Views/ModuleDetailView.xaml" />
+      <File FileName="Library.Goulash/Models/Submission.cs" />
+      <File FileName="Library.Goulash/Models/Course.cs" />
+      <File FileName="Maui.Goulash/Views/StudentCourseDetailView.xaml.cs" />
+      <File FileName="Maui.Goulash/Views/StudentCourseView.xaml.cs" />
+      <File FileName="Maui.Goulash/Views/StudentView.xaml" />
+      <File FileName="Maui.Goulash/Views/InstructorView.xaml" Line="1" Column="1" />
+      <File FileName="Maui.Goulash/Views/InstructorView.xaml.cs" Line="10" Column="50" />
+      <File FileName="Maui.Goulash/Views/AssignmentSubmissionView.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoulashV3" expanded="True">
+            <Node name="Library.Goulash">
+              <Node name="Services" expanded="True">
+                <Node name="StudentService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Maui.Goulash">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="AssignmentSubmissionView.xaml" expanded="True" />
+                <Node name="CourseDetailView.xaml" expanded="True" />
+                <Node name="InstructorView.xaml" expanded="True" />
+                <Node name="StudentCourseDetailView.xaml" expanded="True" />
+                <Node name="StudentCourseView.xaml" expanded="True" />
+                <Node name="StudentView.xaml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/milesbrosz/Desktop/GoulashV4-master/Library.Goulash/Services/CourseService.cs" relfile="Library.Goulash/Services/CourseService.cs" line="83" column="1" />
+      <Breakpoint enabled="false" file="/Users/milesbrosz/Desktop/GoulashV4-master/Maui.Goulash/ViewModels/CourseDetailViewModel.cs" relfile="Maui.Goulash/ViewModels/CourseDetailViewModel.cs" line="124" column="1" />
+      <Breakpoint enabled="false" file="/Users/milesbrosz/Desktop/GoulashV4-master/Maui.Goulash/Views/AssignmentSubmissionView.xaml.cs" relfile="Maui.Goulash/Views/AssignmentSubmissionView.xaml.cs" line="25" column="1" />
+      <Breakpoint enabled="false" file="/Users/milesbrosz/Desktop/GoulashV4-master/Maui.Goulash/ViewModels/AssignmentSubmissionViewModel.cs" relfile="Maui.Goulash/ViewModels/AssignmentSubmissionViewModel.cs" line="18" column="1" />
+      <Breakpoint enabled="false" file="/Users/milesbrosz/Desktop/GoulashV4-master/Maui.Goulash/ViewModels/StudentCourseDetailViewModel.cs" relfile="Maui.Goulash/ViewModels/StudentCourseDetailViewModel.cs" line="124" column="1" />
+      <Breakpoint enabled="false" file="/Users/milesbrosz/Desktop/GoulashV4-master/Maui.Goulash/ViewModels/StudentCourseDetailViewModel.cs" relfile="Maui.Goulash/ViewModels/StudentCourseDetailViewModel.cs" line="126" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Goulash PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

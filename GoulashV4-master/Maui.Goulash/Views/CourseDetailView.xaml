@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI.Goulash.Views.CourseDetailView"
+             Title="CourseDetailView"
+             NavigatedFrom="OnLeaving"
+             NavigatedTo="OnArriving"
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem
+            Text="Enrollment Details"
+            Clicked="Toolbar_EnrollmentDetailsClicked"
+            />
+        <ToolbarItem
+            Text="Module Details"
+            Clicked="Toolbar_ModuleDetailsClicked"
+           />
+        <ToolbarItem
+            Text="Assignment Details"
+            Clicked="Toolbar_AssignmentDetailsClicked"
+           />
+    </ContentPage.ToolbarItems>
+
+    <VerticalStackLayout>
+
+        <!--ENROLLMENTS-->
+        <VerticalStackLayout IsVisible="{Binding IsEnrollmentDetailsVisible}"
+            Spacing="25"
+            Padding="30,0">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="8*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label 
+                Text="Prefix"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start" 
+                Grid.Row="0"
+                Grid.Column="0"
+                />
+            <Entry 
+                Text="{Binding Path=Prefix, Mode=TwoWay}"
+                Grid.Row="1"
+                Grid.Column="0"
+                ></Entry>
+            <Label 
+                Text="Name"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start" 
+                Grid.Row="0"
+                Grid.Column="1"/>
+            <Entry 
+                Text="{Binding Path=Name, Mode=TwoWay}"
+                Grid.Row="1"
+                Grid.Column="1"></Entry>
+        </Grid>
+
+        <Label 
+            Text="Description"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Entry Text="{Binding Path=Description, Mode=TwoWay}"></Entry>
+        
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label Text="All Enrollments"
+                Grid.Column="0" Grid.Row="0"
+                IsVisible="{Binding IsOldCourse}"
+                ></Label>
+            <ListView
+                ItemsSource="{Binding Students}"
+                SelectedItem="{Binding SelectedStudent}"
+                Grid.Column="0" Grid.Row="1"
+                IsVisible="{Binding IsOldCourse}"
+                HeightRequest="200">
+            </ListView>
+            <Label Text="Enrolled In Course"
+                 Grid.Column="1" Grid.Row="0"
+                 IsVisible="{Binding IsOldCourse}"></Label>
+            <ListView
+                ItemsSource="{Binding Roster}"
+                SelectedItem="{Binding SelectedRemove}"
+                Grid.Column="1" Grid.Row="1"
+                IsVisible="{Binding IsOldCourse}"
+                HeightRequest="200">
+            </ListView>
+        </Grid>
+        
+        <Button Text="Add Student to Roster"
+                Clicked="AddToRosterClick"
+                IsVisible="{Binding IsOldCourse}"
+                MaximumWidthRequest="400"
+                />
+        <Button Text="Remove Student from Roster"
+                Clicked="RemoveFromRosterClick"
+                IsVisible="{Binding IsOldCourse}"
+                MaximumWidthRequest="400"
+                />
+        <Button Text="Ok"
+                Clicked="OkClick"
+                MaximumWidthRequest="400"
+                />
+        </VerticalStackLayout>
+
+        <!--MODULE DETAILS-->
+        <VerticalStackLayout IsVisible="{Binding IsModuleDetailsVisible}"
+            Spacing="25"
+            Padding="30,0">
+            <ListView
+                ItemsSource="{Binding Modules}"
+                SelectedItem="{Binding SelectedModule}"
+                IsVisible="{Binding IsOldCourse}"
+                HeightRequest="200">
+            </ListView>
+
+            <Button Text="Add Module to Course"
+                    Clicked="AddModuleClick"
+                    IsVisible="{Binding IsOldCourse}"
+                    MaximumWidthRequest="400"
+                    />
+            <Button Text="Remove Module from Course"
+                    Clicked="RemoveModuleClick"
+                    IsVisible="{Binding IsOldCourse}"
+                    MaximumWidthRequest="400"
+                    />
+        </VerticalStackLayout>
+
+        <!--Assignment Details-->
+        <VerticalStackLayout IsVisible="{Binding IsAssignmentDetailsVisible}"
+            Spacing="25"
+            Padding="30,0">
+            <ListView
+                ItemsSource="{Binding Assignments}"
+                SelectedItem="{Binding SelectedAssignment}"
+                IsVisible="{Binding IsOldCourse}"
+                HeightRequest="200">
+            </ListView>
+
+            <Button Text="Add Assignment to Course"
+                    Clicked="AddAssignmentClick"
+                    IsVisible="{Binding IsOldCourse}"
+                    MaximumWidthRequest="400"
+                    />
+            <Button Text="Remove Assignment from Course"
+                    Clicked="RemoveAssignmentClick"
+                    IsVisible="{Binding IsOldCourse}"
+                    MaximumWidthRequest="400"
+                    />
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>

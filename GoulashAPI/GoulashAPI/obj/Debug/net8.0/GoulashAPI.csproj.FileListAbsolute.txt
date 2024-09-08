@@ -1,0 +1,70 @@
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/appsettings.json
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/GoulashAPI
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/GoulashAPI.deps.json
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/GoulashAPI.runtimeconfig.json
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/GoulashAPI.dll
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/GoulashAPI.pdb
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/GoulashAPI.csproj.AssemblyReference.cache
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/GoulashAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/GoulashAPI.AssemblyInfoInputs.cache
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/GoulashAPI.AssemblyInfo.cs
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/GoulashAPI.csproj.CoreCompileInputs.cache
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/GoulashAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/GoulashAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/staticwebassets/msbuild.GoulashAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.GoulashAPI.props
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GoulashAPI.props
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GoulashAPI.props
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/scopedcss/bundle/GoulashAPI.styles.css
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/GoulashAPI.csproj.Up2Date
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/GoulashAPI.dll
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/refint/GoulashAPI.dll
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/GoulashAPI.pdb
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/GoulashAPI.genruntimeconfig.cache
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/obj/Debug/net8.0/ref/GoulashAPI.dll
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/ServerLibrary.GoulashAPI.dll
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/ServerLibrary.GoulashAPI.pdb
+/Users/milesbrosz/Desktop/GoulashAPI/GoulashAPI/bin/Debug/net8.0/Newtonsoft.Json.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\appsettings.Development.json
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\appsettings.json
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\GoulashAPI.exe
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\GoulashAPI.deps.json
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\GoulashAPI.runtimeconfig.json
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\GoulashAPI.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\GoulashAPI.pdb
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\ServerLibrary.GoulashAPI.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\bin\Debug\net8.0\ServerLibrary.GoulashAPI.pdb
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\GoulashAPI.csproj.AssemblyReference.cache
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\GoulashAPI.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\GoulashAPI.AssemblyInfoInputs.cache
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\GoulashAPI.AssemblyInfo.cs
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\GoulashAPI.csproj.CoreCompileInputs.cache
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\GoulashAPI.MvcApplicationPartsAssemblyInfo.cs
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\GoulashAPI.MvcApplicationPartsAssemblyInfo.cache
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\staticwebassets.build.json
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\staticwebassets.development.json
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\staticwebassets\msbuild.GoulashAPI.Microsoft.AspNetCore.StaticWebAssets.props
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.GoulashAPI.props
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GoulashAPI.props
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GoulashAPI.props
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\staticwebassets.pack.json
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\scopedcss\bundle\GoulashAPI.styles.css
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\GoulashAPI.csproj.Up2Date
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\GoulashAPI.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\refint\GoulashAPI.dll
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\GoulashAPI.pdb
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\GoulashAPI.genruntimeconfig.cache
+Q:\Desktop\Final Submission copy\GoulashAPI\GoulashAPI\obj\Debug\net8.0\ref\GoulashAPI.dll

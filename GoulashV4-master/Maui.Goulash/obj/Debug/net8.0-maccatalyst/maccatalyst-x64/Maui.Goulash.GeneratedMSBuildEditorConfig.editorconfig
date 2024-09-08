@@ -1,0 +1,101 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Maui.Goulash
+build_property.ProjectDir = Q:\Desktop\Final Submission copy\GoulashV4-master\Maui.Goulash\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/Views/AssignmentDetailView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.Views.AssignmentDetailView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AssignmentDetailView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AssignmentDetailView.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/Views/AssignmentSubmissionView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.Views.AssignmentSubmissionView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AssignmentSubmissionView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AssignmentSubmissionView.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/Views/CourseDetailView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.Views.CourseDetailView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CourseDetailView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CourseDetailView.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/Views/InstructorView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.Views.InstructorView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\InstructorView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\InstructorView.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/Views/ModuleDetailView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.Views.ModuleDetailView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ModuleDetailView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ModuleDetailView.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/Views/PersonDetailView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.Views.PersonDetailView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PersonDetailView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PersonDetailView.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/Views/StudentCourseDetailView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.Views.StudentCourseDetailView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StudentCourseDetailView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StudentCourseDetailView.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/Views/StudentCourseView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.Views.StudentCourseView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StudentCourseView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StudentCourseView.xaml
+
+[Q:/Desktop/Final Submission copy/GoulashV4-master/Maui.Goulash/Views/StudentView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui.Goulash.Views.StudentView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StudentView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StudentView.xaml

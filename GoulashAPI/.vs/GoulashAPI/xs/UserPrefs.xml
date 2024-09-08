@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{DC59538B-3A60-411C-9D8F-9255F336484F}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GoulashAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServerLibrary.GoulashAPI/EC/CourseEC.cs">
+    <Files>
+      <File FileName="GoulashAPI/Controllers/CourseController.cs" Line="46" Column="4" IsPinned="True" />
+      <File FileName="ServerLibrary.GoulashAPI/EC/CourseEC.cs" Line="81" Column="10" IsPinned="True" />
+      <File FileName="ServerLibrary.GoulashAPI/Database/FakeDatabase.cs" Line="29" Column="40" />
+      <File FileName="GoulashAPI/Controllers/StudentController.cs" />
+      <File FileName="ServerLibrary.GoulashAPI/EC/StudentEC.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoulashAPI" expanded="True">
+            <Node name="GoulashAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="ServerLibrary.GoulashAPI" expanded="True">
+              <Node name="Database" expanded="True" />
+              <Node name="EC" expanded="True">
+                <Node name="CourseEC.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

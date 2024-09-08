@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI.Goulash.Views.StudentCourseDetailView"
+             Title="StudentCourseDetailView"
+             NavigatedFrom="OnLeaving"
+             NavigatedTo="OnArriving"
+             >
+    <!--Similar to courseDetailView, but changes are not allowed-->
+     <ContentPage.ToolbarItems>
+        <ToolbarItem
+            Text="Enrollment Details"
+            Clicked="Toolbar_EnrollmentDetailsClicked"
+            />
+        <ToolbarItem
+            Text="Module Details"
+            Clicked="Toolbar_ModuleDetailsClicked"
+           />
+        <ToolbarItem
+            Text="Assignment Details"
+            Clicked="Toolbar_AssignmentDetailsClicked"
+           />
+    </ContentPage.ToolbarItems>
+    <VerticalStackLayout>
+        <VerticalStackLayout IsVisible="{Binding IsEnrollmentDetailsVisible}"
+            Spacing="25"
+            Padding="30,0">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="8*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label 
+                Text="Prefix"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start" 
+                Grid.Row="0"
+                Grid.Column="0"
+                />
+            <Label 
+                Text="{Binding Path=Prefix}"
+                Grid.Row="1"
+                Grid.Column="0"
+                ></Label>
+            <Label 
+                Text="Name"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start" 
+                Grid.Row="0"
+                Grid.Column="1"/>
+            <Label 
+                Text="{Binding Path=Name}"
+                Grid.Row="1"
+                Grid.Column="1"></Label>
+        </Grid>
+        <Label 
+            Text="Description"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label Text="{Binding Path=Description}"></Label>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label Text="Enrolled In Course"
+                 Grid.Column="1" Grid.Row="0"
+                 ></Label>
+            <ListView
+                ItemsSource="{Binding Roster}"
+                Grid.Column="1" Grid.Row="1"
+                HeightRequest="200">
+            </ListView>
+        </Grid>
+
+        <Button Text="Back"
+                Clicked="BackClick" />
+        </VerticalStackLayout>
+
+        <!--Module Details-->
+
+        <VerticalStackLayout IsVisible="{Binding IsModuleDetailsVisible}"
+            Spacing="25"
+            Padding="30,0">
+            <ListView
+                ItemsSource="{Binding Modules}"
+                SelectedItem="{Binding SelectedModule}"
+                HeightRequest="200">
+            </ListView>
+        </VerticalStackLayout>
+
+        <!--Assignment Details-->
+        <VerticalStackLayout IsVisible="{Binding IsAssignmentDetailsVisible}"
+            Spacing="25"
+            Padding="30,0">
+            <ListView
+                ItemsSource="{Binding Assignments}"
+                SelectedItem="{Binding SelectedAssignment}"
+                HeightRequest="200">
+            </ListView>
+
+            <Button Text="Enter Submission"
+                    Clicked="EnterSubmissionClick"/>
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>

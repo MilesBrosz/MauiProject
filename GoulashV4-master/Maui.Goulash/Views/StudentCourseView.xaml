@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI.Goulash.Views.StudentCourseView"
+             Title="StudentCourseView"
+             NavigatedFrom="OnLeaving"
+             NavigatedTo="OnArriving"
+             >
+    <VerticalStackLayout>
+        <!--<SearchBar
+            Text="{Binding Query, Mode=TwoWay}"
+        ></SearchBar>-->
+
+        <ListView
+            ItemsSource="{Binding Courses}"
+            SelectedItem="{Binding SelectedCourse}"
+            HeightRequest="200">
+        </ListView>
+
+        <Button Text="Open"
+                Clicked="ViewCourseClick"/>
+        <Button Text="Back"
+                Clicked="BackClicked" />
+
+    </VerticalStackLayout>
+</ContentPage>

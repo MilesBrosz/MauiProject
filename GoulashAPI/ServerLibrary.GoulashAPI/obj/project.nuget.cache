@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4dypITft/hzXYZ7Vdeb62+e7P9/HVxhm1dXSoqzD0T8KaQlN3SmDleFHQMqsWgc5FMxRT/KROlCAgU1dsh4z5A==",
+  "success": true,
+  "projectFilePath": "Q:\\Desktop\\Final Submission copy\\GoulashAPI\\ServerLibrary.GoulashAPI\\ServerLibrary.GoulashAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navya\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

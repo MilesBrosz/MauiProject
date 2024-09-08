@@ -1,0 +1,7 @@
+﻿@GoulashAPI_HostAddress = http://localhost:5276
+
+GET {{GoulashAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+

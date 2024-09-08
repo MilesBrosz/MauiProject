@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI.Goulash.Views.ModuleDetailView"
+             Title="ModuleDetailView"
+             NavigatedFrom="OnLeaving"
+             NavigatedTo="OnArriving"
+             >
+    <VerticalStackLayout
+        Spacing="25"
+        Padding="30,0">
+
+        <Label 
+            Text="Name"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Entry Text="{Binding Path=ModuleName, Mode=TwoWay}"></Entry>
+
+        <Label 
+            Text="Description"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Entry Text="{Binding Path=ModuleDescription, Mode=TwoWay}"></Entry>
+
+        <ListView
+            ItemsSource="{Binding Content}"
+            SelectedItem="{Binding SelectedContent}" >
+        </ListView>
+
+        <Button Text="Ok"
+                Clicked="OkClick"
+                MaximumWidthRequest="400"
+                />
+        <Button Text="Back"
+                Clicked="BackClick"
+                MaximumWidthRequest="400"
+                />
+
+        <!--<Button Text="Add Content Item"
+                Clicked="Button_Clicked"
+                />
+        <Button Text="Remove Content Item"
+                Clicked="Button_Clicked"
+                />-->
+    </VerticalStackLayout>
+</ContentPage>
